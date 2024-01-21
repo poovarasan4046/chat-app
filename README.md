@@ -11,4 +11,3 @@ Firebase Hosting for Deploying it to the internet.
 
 https://realtime-chat-app-6644.web.app/
 
-"# chat-app" 
